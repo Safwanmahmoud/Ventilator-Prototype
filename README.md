@@ -22,4 +22,4 @@ I designed a prototype of the ventilator that can toggle between more than one I
 * Tinkercad
 
 ## **Diagram**
-![machine diagram](https://github.com/Safwanmahmoud/cccc/blob/main/wiringdiagram.png)
+![machine diagram](https://github.com/Safwanmahmoud/Ventilator-Prototype/blob/main/vent.png)
